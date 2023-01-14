@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>DataLayer.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>DomainLayer.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>FakeUserApp.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>318FD1D5296EAD2600411B5D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>318FD1EB296EAD2800411B5D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>318FD1F5296EAD2800411B5D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>318FD216296EAD3B00411B5D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>318FD239296EAD4E00411B5D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

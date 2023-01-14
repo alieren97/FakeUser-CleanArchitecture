@@ -1,0 +1,6 @@
+framework module Pods_FakeUserApp {
+  umbrella header "Pods-FakeUserApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
